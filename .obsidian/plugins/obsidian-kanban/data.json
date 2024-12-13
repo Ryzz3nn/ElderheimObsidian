@@ -1,0 +1,32 @@
+{
+  "lane-width": 265,
+  "show-checkboxes": true,
+  "tag-sort": [
+    {
+      "tag": "High-Prio"
+    },
+    {
+      "tag": "Medium-Prio"
+    },
+    {
+      "tag": "Low-Prio"
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "#High-Prio",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(255, 64, 0, 0.1)"
+    },
+    {
+      "tagKey": "#Medium-Prio",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(255, 238, 0, 0.1)"
+    },
+    {
+      "tagKey": "#Low-Prio",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(4, 255, 0, 0.1)"
+    }
+  ]
+}

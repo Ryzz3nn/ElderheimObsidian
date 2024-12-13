@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🪜",
+      "LiAntenna",
+      "LiAnvil",
+      "LiApple"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Future.md": {
+    "iconName": "LiAntenna",
+    "iconColor": "#00d5ff"
+  },
+  "Server Development.md": {
+    "iconName": "LiAnvil",
+    "iconColor": "#00eeff"
+  },
+  "Ranks & Levels.md": "🪜",
+  "Texture Things.md": {
+    "iconName": "LiAnvil",
+    "iconColor": "#00ff40"
+  }
+}
