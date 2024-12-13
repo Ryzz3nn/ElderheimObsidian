@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] #Medium-Prio 
 	schematic-like plugin where players can purchase a schematic, place a preview to show its approximate placement (represented as a box made of particles), and then initiate a build timer. During the build process, a minion will move around and place blocks either provided by the player in a linked chest or using unlimited materials if enabled
+- [x] lol
 
 
 ## Core Plugin Features
