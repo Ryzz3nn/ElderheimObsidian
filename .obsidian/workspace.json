@@ -34,23 +34,14 @@
             "id": "cfa686a4b66f47b5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Server Development.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "WIKI Stuff/Elite Mobs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Server Development"
+              "icon": "lucide-file",
+              "title": "Elite Mobs"
             }
           }
         ],
@@ -241,12 +232,12 @@
   },
   "active": "cfa686a4b66f47b5",
   "lastOpenFiles": [
+    "WIKI Stuff/Elite Mobs.md",
     "Texture Things.md",
     "Server Development.md",
     "Ranks & Levels.md",
     "Future.md",
     "2024.md",
-    "WIKI Stuff/Elite Mobs.md",
     "My Code File.js",
     "Untitled.md",
     "WIKI Stuff",
