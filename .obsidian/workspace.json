@@ -50,21 +50,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Server Development.md",
+                "file": "Texture Things.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Server Development"
+              "title": "Texture Things"
             }
           }
         ],
@@ -255,10 +250,10 @@
   },
   "active": "7af2dbec40da3e6e",
   "lastOpenFiles": [
+    "Server Development.md",
     "Texture Things.md",
     "EliteMobs Changes List.md",
     "WIKI Stuff/Elite Mobs.md",
-    "Server Development.md",
     "Ranks & Levels.md",
     "Future.md",
     "2024.md",
