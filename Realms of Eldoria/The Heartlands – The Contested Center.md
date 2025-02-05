@@ -1,0 +1,5 @@
+A once-thriving land, now scarred by endless battles. Rolling plains stretch across the region, with patches of forests and winding rivers cutting through the landscape. Ancient ruins stand as silent reminders of past wars, their broken towers crumbling under the weight of time. Roads wind through the land, connecting small, struggling villages to neutral trading posts where merchants and mercenaries gather. In the distance, a deep chasm glows faintly with mysterious blue crystals, hinting at hidden magic below.
+
+The Heartlands are a vast landscape of golden fields, scattered forests, and abandoned ruins. Stone bridges arch over slow-moving rivers, while dirt roads wind between the remnants of old battlefields. Smoke occasionally rises from distant villages, where traders, warriors, and scavengers fight to survive. The air is thick with tension, as this is the only truly neutral territory between the warring factions. 
+
+Landscape: https://YeaBuddy.capybara.love/yourlocalbar/hl6yce35.jpg
