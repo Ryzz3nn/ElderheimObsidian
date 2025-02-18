@@ -71,9 +71,21 @@
               "icon": "lucide-file",
               "title": "3. The Blightlands (Taurian Dominion) – Realm of Shadows and Might"
             }
+          },
+          {
+            "id": "65a05837e996dd29",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -258,7 +271,7 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "d70a3c3906249f92",
+  "active": "65a05837e996dd29",
   "lastOpenFiles": [
     "Realms of Eldoria/2. The Verdant Expanse (Lionheart Kingdom) – Land of Honor and Light.md",
     "Realms of Eldoria/1. The Heartlands – The Contested Center.md",
