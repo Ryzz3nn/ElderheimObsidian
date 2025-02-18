@@ -76,12 +76,14 @@
             "id": "65a05837e996dd29",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "NPCs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "NPCs"
             }
           }
         ],
@@ -273,6 +275,7 @@
   },
   "active": "65a05837e996dd29",
   "lastOpenFiles": [
+    "NPCs.md",
     "Realms of Eldoria/2. The Verdant Expanse (Lionheart Kingdom) – Land of Honor and Light.md",
     "Realms of Eldoria/1. The Heartlands – The Contested Center.md",
     "Realms of Eldoria/7. The Shrouded Isles – The Domain of the Lost.md",
