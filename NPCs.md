@@ -1,9 +1,11 @@
-Queen Maria
-King Alexander
-Taylor Lightwood
-Myrin Duskfall
-Kael Draven
-Alaric Frostweave
-Vaelora Windhaven
-Sylas
-Alric Thornwood
+King Alexander: [https://namemc.com/skin/6844dedfd16fc654](https://namemc.com/skin/6844dedfd16fc654 "https://namemc.com/skin/6844dedfd16fc654") 
+Queen Maria: [https://namemc.com/skin/6c7d3b1d1850871a](https://namemc.com/skin/6c7d3b1d1850871a "https://namemc.com/skin/6c7d3b1d1850871a") 
+Mining Realm: [https://namemc.com/skin/23125decaf48c50d](https://namemc.com/skin/23125decaf48c50d "https://namemc.com/skin/23125decaf48c50d") 
+Taylor Lightwood: [https://namemc.com/skin/36f24ff05d1fb912](https://namemc.com/skin/36f24ff05d1fb912 "https://namemc.com/skin/36f24ff05d1fb912") 
+Myrin Duskfall: [https://namemc.com/skin/90d783cd7a762050](https://namemc.com/skin/90d783cd7a762050 "https://namemc.com/skin/90d783cd7a762050") 
+Kael Draven: [https://namemc.com/skin/14d89bdec08d5797](https://namemc.com/skin/14d89bdec08d5797 "https://namemc.com/skin/14d89bdec08d5797") 
+Alaric Frostweave: [https://namemc.com/skin/f6828175c38300f5](https://namemc.com/skin/f6828175c38300f5 "https://namemc.com/skin/f6828175c38300f5")
+Vaelora Windhaven: [https://namemc.com/skin/0ad5bd76638284e3](https://namemc.com/skin/0ad5bd76638284e3 "https://namemc.com/skin/0ad5bd76638284e3") 
+Sylas: [https://namemc.com/skin/081786dfef0e5e95](https://namemc.com/skin/081786dfef0e5e95 "https://namemc.com/skin/081786dfef0e5e95") 
+Alric Thorwood: [https://namemc.com/skin/42faf258c4851b8a](https://namemc.com/skin/42faf258c4851b8a "https://namemc.com/skin/42faf258c4851b8a") 
+Loryn Ashspire: [https://namemc.com/skin/ea1fd07255fd2b73](https://namemc.com/skin/ea1fd07255fd2b73 "https://namemc.com/skin/ea1fd07255fd2b73")
