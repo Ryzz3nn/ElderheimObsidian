@@ -99,9 +99,21 @@
               "icon": "lucide-file",
               "title": "NPCs"
             }
+          },
+          {
+            "id": "f30b31b14bed982e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -287,7 +299,7 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "c79ef26a7d6ca082",
+  "active": "f30b31b14bed982e",
   "lastOpenFiles": [
     "NPCs.md",
     "Realms of Eldoria/2. The Verdant Expanse (Lionheart Kingdom) – Land of Honor and Light.md",
