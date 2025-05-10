@@ -29,12 +29,18 @@
             "id": "e3ce409bc3060d0c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Ranks & Levels.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-trello",
+              "title": "Ranks & Levels"
             }
           }
         ],
@@ -226,6 +232,7 @@
   },
   "active": "e3ce409bc3060d0c",
   "lastOpenFiles": [
+    "Texture Things.md",
     "Ranks & Levels.md",
     "Server Development.md",
     "Launch Plans/Events.md",
@@ -242,7 +249,6 @@
     "Realms of Eldoria/5. The Crimson Wastes – Land of Fire and Ash.md",
     "Realms of Eldoria/4. The Frozen North – The Edge of the World.md",
     "Realms of Eldoria",
-    "Texture Things.md",
     "2024.md",
     "My Code File.js",
     "WIKI Stuff",
