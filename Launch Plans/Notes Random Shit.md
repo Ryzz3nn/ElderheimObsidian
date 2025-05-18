@@ -1,7 +1,7 @@
-Leveld mobs
-vitamin+ modules
-the crossroads
-launch dates
-event ideas
-possible features
-ingame item shop items to sell
+- Leveled Mobs  
+- Vitamin+ Modules  
+- The Crossroads  
+- Launch Dates  
+- Event Ideas  
+- Possible Features  
+- In-Game Item Shop – Items to Sell  
