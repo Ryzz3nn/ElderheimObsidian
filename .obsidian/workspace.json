@@ -29,18 +29,14 @@
             "id": "e3ce409bc3060d0c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Ranks & Levels.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Launch Plans/Notes Random Shit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Ranks & Levels"
+              "icon": "lucide-file",
+              "title": "Notes Random Shit"
             }
           }
         ],
@@ -230,12 +226,13 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "e3ce409bc3060d0c",
+  "active": "88e5a1b3ed48fe34",
   "lastOpenFiles": [
-    "Texture Things.md",
-    "Ranks & Levels.md",
-    "Server Development.md",
     "Launch Plans/Events.md",
+    "Launch Plans/Notes Random Shit.md",
+    "Ranks & Levels.md",
+    "Texture Things.md",
+    "Server Development.md",
     "Realms of Eldoria/3. The Blightlands (Taurian Dominion) – Realm of Shadows and Might.md",
     "NPCs.md",
     "WIKI Stuff/Elite Mobs.md",
